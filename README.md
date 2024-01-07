@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Yuyi Ao](https://github-readme-stats.vercel.app/api?username=George-ao)]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=George-ao)
-
+![](https://stats.justsong.cn/api/github?username=George-ao&theme=dark)
