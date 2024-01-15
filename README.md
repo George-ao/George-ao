@@ -23,6 +23,7 @@ I’m currently learning
 - 🏃 Basketball / Tennis / Running
 - 📫 How to reach me: yuyiao2@illinois.edu
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
 [![Yuyi Ao](https://github-readme-stats.vercel.app/api?username=George-ao)]() 
 ![](https://stats.justsong.cn/api/github?username=George-ao)
 
