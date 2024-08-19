@@ -15,9 +15,7 @@ I’m currently learning
 - ⚡ Fun fact: ...
 -->
 ### Yoo, I'm Yuyi Ao 👋
-- 🍻 Junior at ZJU-UIUC, _BSc in Computer Engineering_
 - 👯 I'm interestes in mahcine learning, data mining ...
-- 🤔 I’m currently working on improving performance of knowledge graph embedding
 - 👯 I’m leaning to be a self-motivated researcher
 - ⚡ C++ / Python.
 - 🏃 Basketball / Tennis / Running
