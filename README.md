@@ -15,8 +15,6 @@ I’m currently learning
 - ⚡ Fun fact: ...
 -->
 ### Yoo, I'm Yuyi Ao 👋
-- 👯 I'm interestes in mahcine learning, data mining ...
-- 👯 I’m leaning to be a self-motivated researcher
 - ⚡ C++ / Python.
 - 🏃 Basketball / Tennis / Running
 - 📫 How to reach me: yuyiao2@illinois.edu
