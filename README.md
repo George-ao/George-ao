@@ -14,10 +14,10 @@ I’m currently learning
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Yoo, I'm Yuyi Ao 👋
-- ⚡ C++ / Python.
-- 🏃 Basketball / Tennis / Running
-- 📫 How to reach me: yuyiao2@illinois.edu
+### Yoo, I'm Yuyi 👋
+- ⚡ Python / C++
+- 🏃 Running / Tennis 
+- 📫 How to reach me: yuyia@andrew.cmu.edu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=George-ao&label=Profile%20views&color=10b40e&style=flat-square" alt="George-ao" /> </p>
 
